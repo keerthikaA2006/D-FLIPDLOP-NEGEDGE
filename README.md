@@ -30,11 +30,11 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 
 /* write all the steps invloved */
 
-1.Open quartus II and create New project wizard. 
-2. Write the program in Verilog HDL
-file and run the program. 
-3. Download the RTL viewer
-4. Now open university program VWF and download waveform after the execution.
+
+  1.Open quartus II and create New project wizard. 
+  2. Write the program in Verilog HDL file and run the program. 
+  3. Download the RTL viewer
+  4. Now open university program VWF and download waveform after the execution.
 
 
 **PROGRAM**
